@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="6svmJ4kgNoIwV_ClhTGR">
-    <mxGraphModel dx="1146" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,8 @@
         <mxCell id="KzS_hSBvUD1LBXP6se7C-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="KzS_hSBvUD1LBXP6se7C-29" target="KzS_hSBvUD1LBXP6se7C-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KzS_hSBvUD1LBXP6se7C-29" value="GitHub action&lt;div&gt;- Will refer state.json&lt;/div&gt;&lt;div&gt;- And based on expected time will project required number of runners&lt;/div&gt;&lt;div&gt;- And the test distribution load per runner&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="372.5" width="260" height="115" as="geometry" />
+        <mxCell id="KzS_hSBvUD1LBXP6se7C-29" value="GitHub action&lt;div&gt;- Will refer state.json&lt;/div&gt;&lt;div&gt;- And based on expected time will project required number of runners&lt;/div&gt;&lt;div&gt;- And the test distribution load per runner&lt;/div&gt;&lt;div&gt;- And the worker count based on available core on runners&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="372.5" width="385" height="115" as="geometry" />
         </mxCell>
         <mxCell id="KzS_hSBvUD1LBXP6se7C-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="KzS_hSBvUD1LBXP6se7C-31" target="KzS_hSBvUD1LBXP6se7C-33">
           <mxGeometry relative="1" as="geometry" />
