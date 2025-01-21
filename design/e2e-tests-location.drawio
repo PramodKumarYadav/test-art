@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1239" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="New PR with breaking changes in it created." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="New PR with breaking changes in it created." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="145" y="70" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_gsC5cZ0TZE3ObPy3pg--22" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_gsC5cZ0TZE3ObPy3pg--22" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="219.5" y="280" as="sourcePoint" />
@@ -21,102 +21,102 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--19" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-5">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--19" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-5" vertex="1" connectable="0">
           <mxGeometry x="-0.4807" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;b&gt;e2e tests live in an external repo&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;b&gt;e2e tests live in an external repo&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="170" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="_gsC5cZ0TZE3ObPy3pg--1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="_gsC5cZ0TZE3ObPy3pg--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;b&gt;Can&lt;/b&gt; make the e2e tests as a part of &lt;b&gt;quality gate&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;b&gt;Can&lt;/b&gt; make the e2e tests as a part of &lt;b&gt;quality gate&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--1" value="Tests are &lt;b&gt;fixed&lt;/b&gt; &lt;b&gt;when&lt;/b&gt; they are broken." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--1" value="Tests are &lt;b&gt;fixed&lt;/b&gt; &lt;b&gt;when&lt;/b&gt; they are broken." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="830" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="950" y="474.5" as="sourcePoint" />
             <mxPoint x="1000" y="474.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--4" value="Tests are &lt;b&gt;pushed&lt;/b&gt; &lt;b&gt;with&lt;/b&gt; the change and are readily available to other users." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--4" value="Tests are &lt;b&gt;pushed&lt;/b&gt; &lt;b&gt;with&lt;/b&gt; the change and are readily available to other users." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--5" value="&lt;b&gt;Can not &lt;/b&gt;make the test fixes as a part of PR and if you do, there is no good way to sync test changes with PRs.&amp;nbsp;&lt;div&gt;Remember, there are typically many PRs open at any time.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--5" value="&lt;b&gt;Can not &lt;/b&gt;make the test fixes as a part of PR and if you do, there is no good way to sync test changes with PRs.&amp;nbsp;&lt;div&gt;Remember, there are typically many PRs open at any time.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="195" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_gsC5cZ0TZE3ObPy3pg--8">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_gsC5cZ0TZE3ObPy3pg--8" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="620" y="235" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_gsC5cZ0TZE3ObPy3pg--8" target="_gsC5cZ0TZE3ObPy3pg--9">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_gsC5cZ0TZE3ObPy3pg--8" target="_gsC5cZ0TZE3ObPy3pg--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--8" value="Can &lt;b&gt;NOT&lt;/b&gt; make the e2e tests as a part of&amp;nbsp;&lt;b&gt;quality gate&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--8" value="Can &lt;b&gt;NOT&lt;/b&gt; make the e2e tests as a part of&amp;nbsp;&lt;b&gt;quality gate&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--9" value="Tests are&amp;nbsp;&lt;b&gt;fixed&lt;/b&gt;&amp;nbsp;&lt;b&gt;after&lt;/b&gt;&amp;nbsp; they are broken." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--9" value="Tests are&amp;nbsp;&lt;b&gt;fixed&lt;/b&gt;&amp;nbsp;&lt;b&gt;after&lt;/b&gt;&amp;nbsp; they are broken." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="840" y="205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="234.5" as="sourcePoint" />
             <mxPoint x="1010" y="234.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--11" value="Tests are &lt;b&gt;pushed&lt;/b&gt; &lt;b&gt;after&lt;/b&gt; the breaking changes have already impacted all other users." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--11" value="Tests are &lt;b&gt;pushed&lt;/b&gt; &lt;b&gt;after&lt;/b&gt; the breaking changes have already impacted all other users." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1010" y="190" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1130" y="234.5" as="sourcePoint" />
             <mxPoint x="1180" y="234.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--13" value="Result:&amp;nbsp;&lt;div&gt;- &lt;b&gt;Untrustworthy tests&lt;/b&gt; with lots of false positives.&lt;/div&gt;&lt;div&gt;- Very &lt;b&gt;high maintenance&lt;/b&gt; efforts.&lt;br&gt;- &lt;b&gt;Does not scale well&lt;/b&gt;: To scale more tests, would need to hire more QE experts.&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--13" value="Result:&amp;nbsp;&lt;div&gt;- &lt;b&gt;Untrustworthy tests&lt;/b&gt; with lots of false positives.&lt;/div&gt;&lt;div&gt;- Very &lt;b&gt;high maintenance&lt;/b&gt; efforts.&lt;br&gt;- &lt;b&gt;Does not scale well&lt;/b&gt;: To scale more tests, would need to hire more QE experts.&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1180" y="160" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="474.5" as="sourcePoint" />
             <mxPoint x="1170" y="474.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--15" value="Result:&amp;nbsp;&lt;div&gt;- &lt;b&gt;Trustworthy tests&lt;/b&gt; that gives true positives.&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Low&amp;nbsp;maintenance&lt;/b&gt; efforts.&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Scales well&lt;/b&gt; since most e2e tests are maintained by developers.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Testers are there as enablers and to add to whats there - not bottlenecks.&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--15" value="Result:&amp;nbsp;&lt;div&gt;- &lt;b&gt;Trustworthy tests&lt;/b&gt; that gives true positives.&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Low&amp;nbsp;maintenance&lt;/b&gt; efforts.&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Scales well&lt;/b&gt; since most e2e tests are maintained by developers.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Testers are there as enablers and to add to whats there - not bottlenecks.&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1170" y="400" width="290" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="234.5" as="sourcePoint" />
             <mxPoint x="340" y="234.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--17" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_gsC5cZ0TZE3ObPy3pg--16">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--17" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_gsC5cZ0TZE3ObPy3pg--16" vertex="1" connectable="0">
           <mxGeometry x="-0.12" y="2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--20" value="&lt;b&gt;Can&lt;/b&gt; make the test fixes as a part of PR and both code and test changes go hand in hand in a PR." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--20" value="&lt;b&gt;Can&lt;/b&gt; make the test fixes as a part of PR and both code and test changes go hand in hand in a PR." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="435" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="610" y="474.5" as="sourcePoint" />
             <mxPoint x="660" y="474.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--22" value="e2e tests live in the same repository as application code." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--22" value="e2e tests live in the same repository as application code." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="435" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="_gsC5cZ0TZE3ObPy3pg--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_gsC5cZ0TZE3ObPy3pg--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="280" y="480" as="sourcePoint" />
