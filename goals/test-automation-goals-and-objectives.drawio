@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.9">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1480" dy="805" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2351" dy="1391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="Mindmap" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontFamily=Comic Sans MS;fontSize=9;swimlaneLine=0;dashed=1;collapsible=0;" parent="1" vertex="1">
-          <mxGeometry x="-219" y="33" width="2750" height="1425" as="geometry" />
+          <mxGeometry x="-246" y="35" width="2750" height="1425" as="geometry" />
         </mxCell>
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-180" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Comic Sans MS&quot;&gt;test-automation&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Comic Sans MS&quot;&gt;goals-and-objectives&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="994" y="423" width="251" height="132" as="geometry" />
@@ -354,6 +354,22 @@
             <Array as="points">
               <mxPoint x="1849" y="721" />
               <mxPoint x="1799" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOwCwb96JFW9hj6CmI3m-104" value="Enablers" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="1732.2" y="37" width="255" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="LOwCwb96JFW9hj6CmI3m-105" value="&lt;span style=&quot;text-align: center;&quot;&gt;- Distributed and parallel execution.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;- Embedding testing in teams. Involving developers, so maintenance is a shared responsibility.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="LOwCwb96JFW9hj6CmI3m-104">
+          <mxGeometry y="30" width="255" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="LOwCwb96JFW9hj6CmI3m-106" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.009;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" target="LOwCwb96JFW9hj6CmI3m-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1551" y="144.5" as="sourcePoint" />
+            <mxPoint x="1615" y="85.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1615" y="135.5" />
+              <mxPoint x="1565" y="85.5" />
             </Array>
           </mxGeometry>
         </mxCell>
