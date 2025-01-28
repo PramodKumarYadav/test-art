@@ -144,16 +144,6 @@
         <mxCell id="LOwCwb96JFW9hj6CmI3m-49" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Is your team spending too much&lt;/div&gt;&lt;div&gt;&amp;nbsp;time maintaining tests?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="732" y="1012" width="242" height="211" as="geometry" />
         </mxCell>
-        <mxCell id="LOwCwb96JFW9hj6CmI3m-50" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.897;entryY=0.284;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" target="LOwCwb96JFW9hj6CmI3m-49">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1006" y="842" as="sourcePoint" />
-            <mxPoint x="921" y="734" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="935" y="841" />
-              <mxPoint x="1006" y="797" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LOwCwb96JFW9hj6CmI3m-53" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Is your setup and &lt;b&gt;way of working scaleable&lt;/b&gt;?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="955" y="181.5" width="173" height="87" as="geometry" />
         </mxCell>
@@ -185,6 +175,26 @@
         </mxCell>
         <mxCell id="LOwCwb96JFW9hj6CmI3m-59" value="Do we have good guidelines&lt;div&gt;and tools&amp;nbsp;&lt;br&gt;&lt;div&gt;in place to minimise&amp;nbsp;&lt;/div&gt;&lt;div&gt;and&amp;nbsp;&lt;/div&gt;&lt;div&gt;deal with flaky tests?&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="1482" y="665" width="200" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="LOwCwb96JFW9hj6CmI3m-60" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="LOwCwb96JFW9hj6CmI3m-47" target="LOwCwb96JFW9hj6CmI3m-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1178" y="966" as="sourcePoint" />
+            <mxPoint x="1228" y="916" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1056" y="984" />
+              <mxPoint x="1178" y="916" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LOwCwb96JFW9hj6CmI3m-61" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1004" y="872" as="sourcePoint" />
+            <mxPoint x="925" y="1054" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="833" y="1012" />
+              <mxPoint x="955" y="944" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
