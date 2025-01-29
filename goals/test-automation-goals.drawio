@@ -15,9 +15,9 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Fast&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/strokeline/128/21_icons-1024.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;align=left;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="130" y="190" width="230" height="80" as="geometry" />
+        <UserObject label="&lt;span style=&quot;font-size: 16px;&quot;&gt;Timely (shift left)&lt;/span&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-80px/80/arrow-left-80px-1024.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="120" y="190" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;sketch=1;curveFitting=1;jiggle=2;entryX=0.438;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-11" edge="1" target="dNxyNK7c78bLwvsdeMH5-16">
@@ -26,8 +26,8 @@
             <mxPoint x="594.5" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Effective&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=default;gradientColor=none;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Fast&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/doodle-5/155/rocket-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="490" y="190" width="240" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -36,55 +36,28 @@
             <mxPoint x="920" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Timely&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-80px/80/arrow-left-80px-1024.png;whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="850" y="190" width="230" height="80" as="geometry" />
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Effective&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="840" y="190" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="lE6xOp5lvpQgKnNLigZw-4" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Distributed run&lt;/font&gt;&lt;/b&gt;: Run tests on multiple runners" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-          <mxGeometry x="230" y="290" width="200" height="60" as="geometry" />
+          <mxGeometry x="601" y="290" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lE6xOp5lvpQgKnNLigZw-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Enablers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-          <mxGeometry x="80" y="340" width="180" height="40" as="geometry" />
+          <mxGeometry x="451" y="340" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lE6xOp5lvpQgKnNLigZw-7" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Parallel run&lt;/b&gt;:&lt;/font&gt; Run tests on multiple threads within a runner." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-          <mxGeometry x="230" y="380" width="200" height="60" as="geometry" />
+          <mxGeometry x="601" y="380" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lE6xOp5lvpQgKnNLigZw-8" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Powerful runners&lt;/b&gt;:&lt;/font&gt; Create custom powerful runners for say 32GB/ 64GB." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-          <mxGeometry x="230" y="460" width="200" height="60" as="geometry" />
+          <mxGeometry x="601" y="460" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-1" value="&lt;b&gt;KPIs:&lt;/b&gt; &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;All Tests &lt;b&gt;should finish in less than 9 mins&lt;/b&gt;.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="230" y="560" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-2" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;updated&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;on pre-commit hooks&lt;/font&gt;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="950" y="290" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-4" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;affected&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;on &quot;pull request env&quot;&lt;/font&gt;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="950" y="380" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-5" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;all&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;post deployment of environments (dev, staging)&lt;/font&gt; etc.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="950" y="460" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-6" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;KPIs:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;All &lt;b style=&quot;&quot;&gt;Hooks&lt;/b&gt; and &lt;b style=&quot;&quot;&gt;pipelines&lt;/b&gt; are in place to run different test use cases.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="951" y="650" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-7" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;all&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;pre&lt;/font&gt; &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;deployment to production&lt;/font&gt;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="951" y="550" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-8" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;No false positives due to expected code changes&lt;/font&gt;&lt;/b&gt;: Add tests in same repo as app repo and make them part of quality gate for PR merges." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="580" y="290" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-9" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Catch true positives&lt;/font&gt;&lt;/b&gt;: Due to application bugs on higher test environments (dev, staging etc)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="580" y="380" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-10" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Minimum flaky tests&lt;/font&gt;&lt;/b&gt;: Better state checks in tests to avoid flaky tests due to improperly designed tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="580" y="460" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-13" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="580" y="570" width="210" height="80" as="geometry" />
+          <mxGeometry x="601" y="560" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-24" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="190" y="270" width="40" height="230" as="geometry" />
+          <mxGeometry x="561" y="270" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="lE6xOp5lvpQgKnNLigZw-5" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="dcq4-NIjGIj9vY-xPq-j-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,38 +71,77 @@
             <mxPoint x="40" y="228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="562" y="411" as="sourcePoint" />
+            <mxPoint x="602" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="562" y="321" as="sourcePoint" />
+            <mxPoint x="602" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-2" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;updated&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;on pre-commit hooks&lt;/font&gt;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="240" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-4" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;affected&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;on &quot;pull request env&quot; (unit, int, system)&lt;/font&gt;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="240" y="380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-5" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;all&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;post deployment of environments (dev, staging)&lt;/font&gt; etc.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="240" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-6" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;KPIs:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;All &lt;b style=&quot;&quot;&gt;Hooks&lt;/b&gt; and &lt;b style=&quot;&quot;&gt;pipelines&lt;/b&gt; are in place to run different test use cases.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="241" y="650" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-7" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;all&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;pre&lt;/font&gt; &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;deployment to production&lt;/font&gt;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="241" y="550" width="200" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="911" y="490.6734782608695" as="sourcePoint" />
-            <mxPoint x="951" y="489.325652173913" as="targetPoint" />
+            <mxPoint x="201" y="490.6734782608695" as="sourcePoint" />
+            <mxPoint x="241" y="489.325652173913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-39" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="910" y="410.6773913043478" as="sourcePoint" />
-            <mxPoint x="950" y="409.3295652173913" as="targetPoint" />
+            <mxPoint x="200" y="410.6773913043478" as="sourcePoint" />
+            <mxPoint x="240" y="409.3295652173913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-40" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="911" y="325.6773913043478" as="sourcePoint" />
-            <mxPoint x="951" y="324.3295652173913" as="targetPoint" />
+            <mxPoint x="201" y="325.6773913043478" as="sourcePoint" />
+            <mxPoint x="241" y="324.3295652173913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-36" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="580" as="sourcePoint" />
+            <mxPoint x="200" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="311" y="501" as="sourcePoint" />
-            <mxPoint x="351" y="500" as="targetPoint" />
+            <mxPoint x="200" y="578.6521739130435" as="sourcePoint" />
+            <mxPoint x="240" y="577.304347826087" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="311" y="411" as="sourcePoint" />
-            <mxPoint x="351" y="410" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-8" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;No false positives due to expected code changes&lt;/font&gt;&lt;/b&gt;: Add tests in same repo as app repo and make them part of quality gate for PR merges." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="960" y="290" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="660" y="360" width="40" height="230" as="geometry" />
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-9" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Catch true positives&lt;/font&gt;&lt;/b&gt;: Due to application bugs on higher test environments (dev, staging etc)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="960" y="380" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-10" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Minimum flaky tests&lt;/font&gt;&lt;/b&gt;: Better state checks in tests to avoid flaky tests due to improperly designed tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="960" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-13" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="960" y="570" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-28" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="920" y="270" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-29" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="dcq4-NIjGIj9vY-xPq-j-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -153,18 +165,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint y="61" as="sourcePoint" />
             <mxPoint x="40" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-36" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="670" as="sourcePoint" />
-            <mxPoint x="1030" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1030" y="668.6521739130435" as="sourcePoint" />
-            <mxPoint x="1070" y="667.304347826087" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
