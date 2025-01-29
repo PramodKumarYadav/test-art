@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2069" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Reliability" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-512.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxCell style="label;https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="410" y="170" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -37,26 +37,26 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Timely Feedback" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label; whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxCell style="label;https://cdn0.iconfinder.com/data/icons/iconoteka-stroke/24/iconoteka_alarm_on_b_s-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="720" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="lE6xOp5lvpQgKnNLigZw-4" value="&lt;b&gt;Distributed run&lt;/b&gt;: Run tests on multiple runners" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="lE6xOp5lvpQgKnNLigZw-4" value="&lt;b&gt;Distributed run&lt;/b&gt;: Run tests on multiple runners" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="120" y="290" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lE6xOp5lvpQgKnNLigZw-5" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="lE6xOp5lvpQgKnNLigZw-5" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="440" as="sourcePoint" />
             <mxPoint x="100" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lE6xOp5lvpQgKnNLigZw-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Enablers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="lE6xOp5lvpQgKnNLigZw-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Enablers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="-10" y="330" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lE6xOp5lvpQgKnNLigZw-7" value="&lt;b&gt;Parallel run&lt;/b&gt;: Run tests on multiple threads within a runner." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="lE6xOp5lvpQgKnNLigZw-7" value="&lt;b&gt;Parallel run&lt;/b&gt;: Run tests on multiple threads within a runner." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="120" y="380" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lE6xOp5lvpQgKnNLigZw-8" value="&lt;b&gt;Powerful runners&lt;/b&gt;: Create custom powerful runners for say 32GB/ 64GB." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="lE6xOp5lvpQgKnNLigZw-8" value="&lt;b&gt;Powerful runners&lt;/b&gt;: Create custom powerful runners for say 32GB/ 64GB." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="120" y="460" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
