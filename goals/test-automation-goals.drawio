@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Reliability" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;https://cdn4.iconfinder.com/data/icons/miscellaneous-273-color-shadow/128/reliable_security_protection_reliability_ok_trusted_shield-512.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxCell style="label;https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-512.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="410" y="170" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
