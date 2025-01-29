@@ -54,22 +54,7 @@
           <mxGeometry x="601" y="460" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-1" value="&lt;b&gt;KPIs:&lt;/b&gt; &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;All Tests &lt;b&gt;should finish in less than 9 mins&lt;/b&gt;.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="601" y="560" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-24" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="561" y="270" width="40" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="lE6xOp5lvpQgKnNLigZw-5" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="dcq4-NIjGIj9vY-xPq-j-24" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="230" as="sourcePoint" />
-            <mxPoint as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dcq4-NIjGIj9vY-xPq-j-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dcq4-NIjGIj9vY-xPq-j-24">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint y="229" as="sourcePoint" />
-            <mxPoint x="40" y="228" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="596" y="670" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -93,7 +78,7 @@
           <mxGeometry x="240" y="460" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-6" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;KPIs:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;All &lt;b style=&quot;&quot;&gt;Hooks&lt;/b&gt; and &lt;b style=&quot;&quot;&gt;pipelines&lt;/b&gt; are in place to run different test use cases.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="241" y="650" width="210" height="80" as="geometry" />
+          <mxGeometry x="240" y="670" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-7" value="&lt;b&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;all&lt;/font&gt;&quot; tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;pre&lt;/font&gt; &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;deployment to production&lt;/font&gt;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="241" y="550" width="200" height="60" as="geometry" />
@@ -138,7 +123,7 @@
           <mxGeometry x="960" y="460" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-13" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="960" y="570" width="210" height="80" as="geometry" />
+          <mxGeometry x="960" y="660" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-28" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="920" y="270" width="40" height="230" as="geometry" />
@@ -165,6 +150,27 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint y="61" as="sourcePoint" />
             <mxPoint x="40" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-41" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Small atomic &amp;amp; independent tests&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Prefer smaller partial integration tests over e2e tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="601" y="550" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="561" y="589" as="sourcePoint" />
+            <mxPoint x="601" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lE6xOp5lvpQgKnNLigZw-5" value="" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="dNxyNK7c78bLwvsdeMH5-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561" y="590" as="sourcePoint" />
+            <mxPoint x="561" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcq4-NIjGIj9vY-xPq-j-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="561" y="499" as="sourcePoint" />
+            <mxPoint x="601" y="498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
