@@ -502,9 +502,6 @@
         <mxCell id="DeR-Eop8c4eI9e8kusVh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-23" target="_S74_14WhyGO1vv9u3Ts-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeR-Eop8c4eI9e8kusVh-6" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="2060" y="550" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="DeR-Eop8c4eI9e8kusVh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="DeR-Eop8c4eI9e8kusVh-7" target="dcq4-NIjGIj9vY-xPq-j-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
