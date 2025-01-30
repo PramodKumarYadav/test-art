@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Run as efficiently as&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;possible: So that its cost&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;effective.&lt;/span&gt;&lt;/div&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-89">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/speed-and-cost-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="2760" y="300" width="270" height="70" as="geometry" />
           </mxCell>
         </UserObject>
@@ -267,7 +267,7 @@
         <mxCell id="_S74_14WhyGO1vv9u3Ts-111" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2830" y="750" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-112" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Always Healthy Tests&lt;/font&gt;&lt;/b&gt;:&amp;nbsp;Add tests in same repo as app repo and make them part of quality gate in PR to always keep them in sync with code.&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;This results in&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;no false positives due to expecte&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;d code changes.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-112" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Do dynamic scaling of runners (up or dow&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;n)&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; based on the test scope in a run.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2901" y="400" width="249" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_S74_14WhyGO1vv9u3Ts-113" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Catch true positives&lt;/font&gt;&lt;/b&gt;: Due to application bugs on higher test environments (dev, staging etc)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
