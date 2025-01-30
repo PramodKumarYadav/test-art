@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2134" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-430" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="dcq4-NIjGIj9vY-xPq-j-47" target="_S74_14WhyGO1vv9u3Ts-40">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="dcq4-NIjGIj9vY-xPq-j-47" target="_S74_14WhyGO1vv9u3Ts-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="dcq4-NIjGIj9vY-xPq-j-47" target="_S74_14WhyGO1vv9u3Ts-123">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=1 4;" parent="1" source="dcq4-NIjGIj9vY-xPq-j-47" target="_S74_14WhyGO1vv9u3Ts-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px;&quot;&gt;Test Run Goals &amp;amp; Objectives&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dcq4-NIjGIj9vY-xPq-j-47">
@@ -15,7 +15,7 @@
             <mxGeometry x="2320" y="140" width="375" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="dcq4-NIjGIj9vY-xPq-j-49" target="_S74_14WhyGO1vv9u3Ts-11">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="dcq4-NIjGIj9vY-xPq-j-49" target="_S74_14WhyGO1vv9u3Ts-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2050" y="390" />
@@ -28,7 +28,7 @@
             <mxGeometry x="1990" y="290" width="300" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="dcq4-NIjGIj9vY-xPq-j-51" target="_S74_14WhyGO1vv9u3Ts-61">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="dcq4-NIjGIj9vY-xPq-j-51" target="_S74_14WhyGO1vv9u3Ts-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2450" y="390" />
@@ -62,172 +62,172 @@
         <mxCell id="dcq4-NIjGIj9vY-xPq-j-71" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2885" y="710" width="265" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-5" value="&lt;b style=&quot;text-align: center;&quot;&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;updated&lt;/font&gt;&quot; tests&amp;nbsp;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;on pre-commit hooks&lt;/font&gt;.&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;spacing=2;spacingLeft=52;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;resizable=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-5" value="&lt;b style=&quot;text-align: center;&quot;&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;updated&lt;/font&gt;&quot; tests&amp;nbsp;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;on pre-commit hooks&lt;/font&gt;.&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;spacing=2;spacingLeft=52;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="410" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-9" value="&lt;b style=&quot;text-align: center;&quot;&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;affected&lt;/font&gt;&quot; tests&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;on &quot;pull request env&quot; (unit, int, system)&lt;/font&gt;.&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;spacing=2;spacingLeft=52;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;resizable=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-9" value="&lt;b style=&quot;text-align: center;&quot;&gt;Run &quot;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;affected&lt;/font&gt;&quot; tests&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;on &quot;pull request env&quot; (unit, int, system)&lt;/font&gt;.&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;spacing=2;spacingLeft=52;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="500" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-11" target="_S74_14WhyGO1vv9u3Ts-12">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-11" target="_S74_14WhyGO1vv9u3Ts-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-11" target="_S74_14WhyGO1vv9u3Ts-5">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-11" target="_S74_14WhyGO1vv9u3Ts-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-11" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-11" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2040" y="430" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-12" target="_S74_14WhyGO1vv9u3Ts-9">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-12" target="_S74_14WhyGO1vv9u3Ts-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-12" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-12" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2040" y="520" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-12" target="_S74_14WhyGO1vv9u3Ts-23">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-12" target="_S74_14WhyGO1vv9u3Ts-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2050" y="530" as="sourcePoint" />
             <mxPoint x="2050" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-23" target="dcq4-NIjGIj9vY-xPq-j-61">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-23" target="dcq4-NIjGIj9vY-xPq-j-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-23" target="_S74_14WhyGO1vv9u3Ts-27">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-23" target="_S74_14WhyGO1vv9u3Ts-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-23" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-23" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2040" y="620" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-27" target="dcq4-NIjGIj9vY-xPq-j-62">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-27" target="dcq4-NIjGIj9vY-xPq-j-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-27" target="_S74_14WhyGO1vv9u3Ts-30">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-27" target="_S74_14WhyGO1vv9u3Ts-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-27" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-27" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2040" y="710" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-30" target="dcq4-NIjGIj9vY-xPq-j-63">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-30" target="dcq4-NIjGIj9vY-xPq-j-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-30" target="_S74_14WhyGO1vv9u3Ts-31">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-30" target="_S74_14WhyGO1vv9u3Ts-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-30" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-30" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2040" y="810" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-31" target="dcq4-NIjGIj9vY-xPq-j-65">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-31" target="dcq4-NIjGIj9vY-xPq-j-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-31" target="_S74_14WhyGO1vv9u3Ts-37">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" source="_S74_14WhyGO1vv9u3Ts-31" target="_S74_14WhyGO1vv9u3Ts-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-31" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-31" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2040" y="910" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-37" target="dcq4-NIjGIj9vY-xPq-j-64">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" source="_S74_14WhyGO1vv9u3Ts-37" target="dcq4-NIjGIj9vY-xPq-j-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-37" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-37" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2040" y="1020" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-40" target="_S74_14WhyGO1vv9u3Ts-42">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-40" target="_S74_14WhyGO1vv9u3Ts-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-40" target="_S74_14WhyGO1vv9u3Ts-41">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-40" target="_S74_14WhyGO1vv9u3Ts-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-40" target="dcq4-NIjGIj9vY-xPq-j-51">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_S74_14WhyGO1vv9u3Ts-40" target="dcq4-NIjGIj9vY-xPq-j-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-40" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-40" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="2495" y="250" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-41" target="dcq4-NIjGIj9vY-xPq-j-49">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_S74_14WhyGO1vv9u3Ts-41" target="dcq4-NIjGIj9vY-xPq-j-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-41" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-41" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="2130" y="250" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-42" target="_S74_14WhyGO1vv9u3Ts-89">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_S74_14WhyGO1vv9u3Ts-42" target="_S74_14WhyGO1vv9u3Ts-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-42" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-42" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="2885" y="250" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-52" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Powerful runners&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Create custom powerful runners for say 32GB/ 64GB." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-52" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Powerful runners&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Create custom powerful runners for say 32GB/ 64GB." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2510" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-53" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Small atomic &amp;amp; independent tests&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Prefer smaller partial integration tests over e2e tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-53" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Small atomic &amp;amp; independent tests&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Prefer smaller partial integration tests over e2e tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2510" y="690" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-54" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;&amp;nbsp;Bypass Login&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Set storage sessions and reuse in whole project to optimise login in tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-54" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;&amp;nbsp;Bypass Login&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Set storage sessions and reuse in whole project to optimise login in tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2511" y="790" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-55" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;All Tests&amp;nbsp;&lt;b&gt;should finish in less than 9 mins&lt;/b&gt;.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-55" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;All Tests&amp;nbsp;&lt;b&gt;should finish in less than 9 mins&lt;/b&gt;.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2490" y="900" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-61" target="_S74_14WhyGO1vv9u3Ts-64">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-61" target="_S74_14WhyGO1vv9u3Ts-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-61" target="_S74_14WhyGO1vv9u3Ts-82">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-61" target="_S74_14WhyGO1vv9u3Ts-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-61" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-61" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2440" y="430" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-64" target="_S74_14WhyGO1vv9u3Ts-83">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-64" target="_S74_14WhyGO1vv9u3Ts-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-64" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-64" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2440" y="520" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-64" target="_S74_14WhyGO1vv9u3Ts-68">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-64" target="_S74_14WhyGO1vv9u3Ts-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2450" y="530" as="sourcePoint" />
             <mxPoint x="2450" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-68" target="_S74_14WhyGO1vv9u3Ts-52">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-68" target="_S74_14WhyGO1vv9u3Ts-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-68" target="_S74_14WhyGO1vv9u3Ts-71">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-68" target="_S74_14WhyGO1vv9u3Ts-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-68" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-68" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2440" y="620" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-71" target="_S74_14WhyGO1vv9u3Ts-53">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-71" target="_S74_14WhyGO1vv9u3Ts-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-71" target="_S74_14WhyGO1vv9u3Ts-74">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-71" target="_S74_14WhyGO1vv9u3Ts-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-71" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-71" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2440" y="710" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-74" target="_S74_14WhyGO1vv9u3Ts-54">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-74" target="_S74_14WhyGO1vv9u3Ts-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-74" target="_S74_14WhyGO1vv9u3Ts-79">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" parent="1" source="_S74_14WhyGO1vv9u3Ts-74" target="_S74_14WhyGO1vv9u3Ts-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-74" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-74" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2440" y="810" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-79" target="_S74_14WhyGO1vv9u3Ts-55">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" source="_S74_14WhyGO1vv9u3Ts-79" target="_S74_14WhyGO1vv9u3Ts-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-79" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-79" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2440" y="940" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-82" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Distributed run&lt;/font&gt;&lt;/b&gt;: Run tests on multiple runners" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-82" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Distributed run&lt;/font&gt;&lt;/b&gt;: Run tests on multiple runners" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2511" y="410" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-83" value="&lt;font style=&quot;text-align: left; color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Parallel run&lt;/b&gt;:&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;Run tests on multiple threads within a runner.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-83" value="&lt;font style=&quot;text-align: left; color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Parallel run&lt;/b&gt;:&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;Run tests on multiple threads within a runner.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2510" y="500" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-89" target="_S74_14WhyGO1vv9u3Ts-96">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-89" target="_S74_14WhyGO1vv9u3Ts-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2840" y="390" />
@@ -236,82 +236,61 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(High signal to noise ratio):&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Report true failures.&lt;/font&gt;&lt;/div&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-89">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="2760" y="300" width="270" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-90" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Minimum flaky tests&lt;/font&gt;&lt;/b&gt;: Better state checks in tests to avoid flaky tests due to improperly designed tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-90" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Minimum flaky tests&lt;/font&gt;&lt;/b&gt;: Better state checks in tests to avoid flaky tests due to improperly designed tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2900" y="600" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-96" target="_S74_14WhyGO1vv9u3Ts-99">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-96" target="_S74_14WhyGO1vv9u3Ts-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-96" target="_S74_14WhyGO1vv9u3Ts-112">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-96" target="_S74_14WhyGO1vv9u3Ts-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-96" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-96" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2830" y="430" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1820" y="537.5" as="targetPoint" />
-            <mxPoint x="1820" y="537.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-99" target="_S74_14WhyGO1vv9u3Ts-113">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-99" target="_S74_14WhyGO1vv9u3Ts-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-99" target="_S74_14WhyGO1vv9u3Ts-116">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-99" target="_S74_14WhyGO1vv9u3Ts-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-99" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-99" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2830" y="520" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-111" target="dcq4-NIjGIj9vY-xPq-j-71">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" parent="1" source="_S74_14WhyGO1vv9u3Ts-111" target="dcq4-NIjGIj9vY-xPq-j-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-111" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-111" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2830" y="750" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-112" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Always Healthy Tests&lt;/font&gt;&lt;/b&gt;:&amp;nbsp;Add tests in same repo as app repo and make them part of quality gate in PR to always keep them in sync with code.&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;This results in&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;no false positives due to expecte&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;d code changes.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-112" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Always Healthy Tests&lt;/font&gt;&lt;/b&gt;:&amp;nbsp;Add tests in same repo as app repo and make them part of quality gate in PR to always keep them in sync with code.&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;This results in&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;no false positives due to expecte&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;d code changes.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2901" y="400" width="249" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-113" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Catch true positives&lt;/font&gt;&lt;/b&gt;: Due to application bugs on higher test environments (dev, staging etc)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-113" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Catch true positives&lt;/font&gt;&lt;/b&gt;: Due to application bugs on higher test environments (dev, staging etc)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2900" y="500" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-116" target="_S74_14WhyGO1vv9u3Ts-111">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-116" target="_S74_14WhyGO1vv9u3Ts-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-116" target="_S74_14WhyGO1vv9u3Ts-90">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-116" target="_S74_14WhyGO1vv9u3Ts-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-116" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-116" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="2830" y="620" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-123" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-123" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="170" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-123" target="dcq4-NIjGIj9vY-xPq-j-55">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;endArrow=none;startFill=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-123" target="dcq4-NIjGIj9vY-xPq-j-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1930" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-132" target="_S74_14WhyGO1vv9u3Ts-169">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="645" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-132" target="_S74_14WhyGO1vv9u3Ts-214">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 18px;&quot;&gt;Test Framework Goals &amp;amp; Objectives&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-132">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-2/52/goals__seo__target__mission__office__shooting__business-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="457.5" y="40" width="375" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-134" target="_S74_14WhyGO1vv9u3Ts-148">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-134" target="_S74_14WhyGO1vv9u3Ts-148" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-200" y="310" />
@@ -320,11 +299,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 16px;&quot;&gt;Readable&lt;/span&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-134">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-80px/80/arrow-left-80px-1024.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-80px/80/arrow-left-80px-1024.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" visible="0">
             <mxGeometry x="-260" y="210" width="300" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-136" target="_S74_14WhyGO1vv9u3Ts-180">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-136" target="_S74_14WhyGO1vv9u3Ts-180" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="310" />
@@ -333,126 +312,94 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 16px;&quot;&gt;Scaleable&lt;/span&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-136">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/doodle-5/155/rocket-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/doodle-5/155/rocket-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1" visible="0">
             <mxGeometry x="120" y="220" width="270" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-137" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Enablers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-137" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Enablers&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-380" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-141" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;KPIs:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;A non technical user should be able to read and understand what a test is doing.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="520" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-143" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-143" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="635" y="630" width="265" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-148" target="_S74_14WhyGO1vv9u3Ts-150">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-148" target="_S74_14WhyGO1vv9u3Ts-150" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-148">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-148" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-140" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-148" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-148" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-210" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-150">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-150" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-140" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-150" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-150" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-210" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" edge="1" parent="1" target="_S74_14WhyGO1vv9u3Ts-165">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-200" y="459.9999999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-165" target="_S74_14WhyGO1vv9u3Ts-141">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-169" target="_S74_14WhyGO1vv9u3Ts-173" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-165" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="560" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-169" target="_S74_14WhyGO1vv9u3Ts-173">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-169" target="_S74_14WhyGO1vv9u3Ts-171" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-169" target="_S74_14WhyGO1vv9u3Ts-171">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_S74_14WhyGO1vv9u3Ts-169" target="_S74_14WhyGO1vv9u3Ts-136" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-169" target="_S74_14WhyGO1vv9u3Ts-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-169" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-169" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="245" y="170" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-171" target="_S74_14WhyGO1vv9u3Ts-134">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_S74_14WhyGO1vv9u3Ts-171" target="_S74_14WhyGO1vv9u3Ts-134" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-171" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-171" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-120" y="170" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-173" target="_S74_14WhyGO1vv9u3Ts-198">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_S74_14WhyGO1vv9u3Ts-173" target="_S74_14WhyGO1vv9u3Ts-198" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-173" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-173" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="635" y="170" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-174" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;No long e2e tests&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Prefer smaller partial integration tests over e2e tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-174" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;No long e2e tests&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Prefer smaller partial integration tests over e2e tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="260" y="520" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-175" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;independent tests&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;Create tests that are not dependent on each other and thus can be run in fully parallel to comfortably scale when test size grows." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="420" width="240" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-177" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Test setup should &lt;b&gt;encourage&lt;/b&gt; users to &lt;b&gt;add&lt;/b&gt; &lt;b&gt;more&lt;/b&gt; tests, and &lt;b&gt;not discourage&lt;/b&gt; it.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="640" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-180" target="_S74_14WhyGO1vv9u3Ts-182">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-180" target="_S74_14WhyGO1vv9u3Ts-182" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-180">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-180" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="261" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-180" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-180" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="190" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-182">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-182" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-182" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-182" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="190" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-182" target="_S74_14WhyGO1vv9u3Ts-186">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-182" target="_S74_14WhyGO1vv9u3Ts-186" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="450" as="sourcePoint" />
             <mxPoint x="200" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-186" target="_S74_14WhyGO1vv9u3Ts-174">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-186" target="_S74_14WhyGO1vv9u3Ts-174" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-186" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-186" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="190" y="540" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-192" target="_S74_14WhyGO1vv9u3Ts-194">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-192" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="190" y="550" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-194" target="_S74_14WhyGO1vv9u3Ts-177">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-194" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="190" y="680" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-198" target="_S74_14WhyGO1vv9u3Ts-202">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-198" target="_S74_14WhyGO1vv9u3Ts-202" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="310" />
@@ -461,76 +408,64 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Maintainable&lt;/span&gt;&lt;/div&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-198">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" visible="0">
             <mxGeometry x="510" y="220" width="270" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-199" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Minimum flaky tests&lt;/font&gt;&lt;/b&gt;: Better state checks in tests to avoid flaky tests due to improperly designed tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-199" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Minimum flaky tests&lt;/font&gt;&lt;/b&gt;: Better state checks in tests to avoid flaky tests due to improperly designed tests." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="650" y="520" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-202" target="_S74_14WhyGO1vv9u3Ts-206">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-202" target="_S74_14WhyGO1vv9u3Ts-206" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-202" target="_S74_14WhyGO1vv9u3Ts-209">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-202" target="_S74_14WhyGO1vv9u3Ts-209" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-202" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-202" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="580" y="350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="540" as="targetPoint" />
-            <mxPoint x="410" y="540" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-206" target="_S74_14WhyGO1vv9u3Ts-210">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-206" target="_S74_14WhyGO1vv9u3Ts-210" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-206" target="_S74_14WhyGO1vv9u3Ts-213">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-206" target="_S74_14WhyGO1vv9u3Ts-213" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-206" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-206" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="580" y="440" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-208" target="_S74_14WhyGO1vv9u3Ts-143">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" parent="1" source="_S74_14WhyGO1vv9u3Ts-208" target="_S74_14WhyGO1vv9u3Ts-143" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-208" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-208" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" vertex="1" visible="0">
           <mxGeometry x="580" y="670" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-209" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Always Healthy Tests&lt;/font&gt;&lt;/b&gt;:&amp;nbsp;Add tests in same repo as app repo and make them part of quality gate in PR to always keep them in sync with code.&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;This results in&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;no false positives due to expecte&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;d code changes.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-209" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Always Healthy Tests&lt;/font&gt;&lt;/b&gt;:&amp;nbsp;Add tests in same repo as app repo and make them part of quality gate in PR to always keep them in sync with code.&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;This results in&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;no false positives due to expecte&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;d code changes.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="651" y="320" width="249" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-210" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Catch true positives&lt;/font&gt;&lt;/b&gt;: Due to application bugs on higher test environments (dev, staging etc)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-210" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Catch true positives&lt;/font&gt;&lt;/b&gt;: Due to application bugs on higher test environments (dev, staging etc)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="650" y="420" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-213" target="_S74_14WhyGO1vv9u3Ts-208">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-213" target="_S74_14WhyGO1vv9u3Ts-208" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-213" target="_S74_14WhyGO1vv9u3Ts-199">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-213" target="_S74_14WhyGO1vv9u3Ts-199" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-213" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-213" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="580" y="540" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-214" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-214" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-330" y="90" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-214" target="_S74_14WhyGO1vv9u3Ts-137">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;endArrow=none;startFill=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-214" target="_S74_14WhyGO1vv9u3Ts-137" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-320" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-216" value="&lt;b&gt;Tests should speak about&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&amp;nbsp;test intentions &lt;/font&gt;and not implementation details. Such tests are more readable.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-139" y="330" width="239" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-217" value="&lt;b&gt;Tests &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;should be small&lt;/font&gt; (no longer than a few lines. Preferably &amp;lt; 9). &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Smaller tests are more readable.&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="420" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-218" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-218" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1075" y="620" width="265" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-220" target="_S74_14WhyGO1vv9u3Ts-224">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-220" target="_S74_14WhyGO1vv9u3Ts-224" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="300" />
@@ -539,131 +474,65 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Configurable&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;(for dev, staging, local etc)&lt;/font&gt;&lt;/div&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-220">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1" visible="0">
             <mxGeometry x="950" y="210" width="270" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-221" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Data per env:&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Each env specific test data should be added in its own config file.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-221" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Data per env:&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Each env specific test data should be added in its own config file.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1090" y="510" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-222" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-224" target="_S74_14WhyGO1vv9u3Ts-227">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-222" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-224" target="_S74_14WhyGO1vv9u3Ts-227" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-224" target="_S74_14WhyGO1vv9u3Ts-230">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-224" target="_S74_14WhyGO1vv9u3Ts-230" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-224" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-224" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1020" y="340" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-227" target="_S74_14WhyGO1vv9u3Ts-231">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-225" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-227" target="_S74_14WhyGO1vv9u3Ts-231" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-227" target="_S74_14WhyGO1vv9u3Ts-234">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-227" target="_S74_14WhyGO1vv9u3Ts-234" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-227" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-227" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1020" y="430" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-229" target="_S74_14WhyGO1vv9u3Ts-218">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" parent="1" source="_S74_14WhyGO1vv9u3Ts-229" target="_S74_14WhyGO1vv9u3Ts-218" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-229" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-229" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1020" y="660" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-230" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Env agnostic:&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt; Same tests should be able to&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt; run on any given test env &lt;/b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;just by specifying the env name.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-230" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Env agnostic:&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt; Same tests should be able to&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt; run on any given test env &lt;/b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;just by specifying the env name.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1091" y="310" width="249" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-231" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Config per env: &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Each env specific config should be added in its own config file.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-231" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Config per env: &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Each env specific config should be added in its own config file.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1090" y="410" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-234" target="_S74_14WhyGO1vv9u3Ts-229">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-234" target="_S74_14WhyGO1vv9u3Ts-229" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-234" target="_S74_14WhyGO1vv9u3Ts-221">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="_S74_14WhyGO1vv9u3Ts-234" target="_S74_14WhyGO1vv9u3Ts-221" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-234" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-234" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1020" y="530" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-237" target="_S74_14WhyGO1vv9u3Ts-220">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_S74_14WhyGO1vv9u3Ts-237" target="_S74_14WhyGO1vv9u3Ts-220" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-237" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-237" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1075" y="170" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.805;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-173" target="_S74_14WhyGO1vv9u3Ts-237">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.805;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-173" target="_S74_14WhyGO1vv9u3Ts-237" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-240" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Use good test design techniques &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;that scale well with size and complexity&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(ex: &lt;/font&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;prefer composition over inheritance&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;)&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;.&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="230" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-244" value="&lt;b&gt;KPIs:&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;Should have&lt;b&gt; high signal to noise ratio&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;i.e. &lt;b&gt;[(true positives) / (total failures)] &amp;gt; 80%&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1545" y="622.5" width="265" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-246" target="_S74_14WhyGO1vv9u3Ts-250">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1500" y="302.5" />
-              <mxPoint x="1500" y="302.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Secrets Mgmt&lt;/span&gt;&lt;/div&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_S74_14WhyGO1vv9u3Ts-246">
-          <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/software-and-web-technology/100/reliability-1024.png;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-            <mxGeometry x="1420" y="212.5" width="270" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-247" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;Secrets should should be gitignored.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="512.5" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-250" target="_S74_14WhyGO1vv9u3Ts-253">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-250" target="_S74_14WhyGO1vv9u3Ts-256">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-250" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="342.5" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-253" target="_S74_14WhyGO1vv9u3Ts-257">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-252" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-253" target="_S74_14WhyGO1vv9u3Ts-260">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-253" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="432.5" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-255" target="_S74_14WhyGO1vv9u3Ts-244">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-255" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;dashed=1;curveFitting=1;jiggle=2;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="662.5" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-256" value="&lt;b&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Protected Secrets:&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;All secrets should be only accessible to the members with right access and authorisation.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1561" y="312.5" width="249" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-257" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;Secrets per env: &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Secrets should work seamlessly for all test environments in both local and in CI.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="412.5" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-258" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-260" target="_S74_14WhyGO1vv9u3Ts-255">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-260" target="_S74_14WhyGO1vv9u3Ts-247">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-260" value="" style="shape=waypoint;sketch=1;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="532.5" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_S74_14WhyGO1vv9u3Ts-246">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1555" y="182.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-262" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-262" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1545" y="177.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_S74_14WhyGO1vv9u3Ts-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=1.161;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_S74_14WhyGO1vv9u3Ts-237" target="_S74_14WhyGO1vv9u3Ts-262">
+        <mxCell id="_S74_14WhyGO1vv9u3Ts-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=1.161;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_S74_14WhyGO1vv9u3Ts-237" target="_S74_14WhyGO1vv9u3Ts-262" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1555" y="180" />
