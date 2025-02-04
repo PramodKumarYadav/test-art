@@ -436,7 +436,7 @@
           <mxGeometry x="1107.01" y="155.5" width="222.99" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-125" value="&lt;b&gt;Do soft rollback of feature by disabling feature flag&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=16;" parent="1WJIlf2FjZAEDyGZa3op-76" vertex="1">
-          <mxGeometry x="430" y="340" width="430" height="40" as="geometry" />
+          <mxGeometry x="430" y="320" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-136" value="&lt;div&gt;✅ Collect user metrics using tools such as &lt;b&gt;Amplitude&lt;/b&gt; or &lt;b&gt;Google Analytics&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="1WJIlf2FjZAEDyGZa3op-76" vertex="1">
           <mxGeometry x="1410" y="157.75" width="222.99" height="74.5" as="geometry" />
