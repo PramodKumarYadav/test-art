@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="Trigger all workflows with event type &lt;b&gt;pull_request&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="110" y="95.5" width="150" height="90" as="geometry" />
+          <mxGeometry x="110" y="99.5" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;flowAnimation=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-28" target="1WJIlf2FjZAEDyGZa3op-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -91,28 +91,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-28" value="All checks passed?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="790" y="65.5" width="150" height="150" as="geometry" />
+          <mxGeometry x="790" y="69.5" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="1WJIlf2FjZAEDyGZa3op-2" target="dNxyNK7c78bLwvsdeMH5-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;✅ Run formatting check&lt;div&gt;✅ Run lint check&lt;/div&gt;&lt;div&gt;✅ Run security scans&lt;/div&gt;&lt;div&gt;&lt;div&gt;✅ Run code coverage checks&lt;/div&gt;&lt;/div&gt;&lt;div&gt;✅ Run approved libraries check&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;✅ Build&amp;nbsp;application&lt;/div&gt;&lt;/div&gt;&lt;div&gt;✅ Run unit tests&lt;/div&gt;&lt;div&gt;✅ Run integration tests&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;✅ Run app/system tests on PR code.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="300" y="40" width="380" height="200" as="geometry" />
+          <mxGeometry x="300" y="44" width="380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-45" value="Give feedback on which checks failed." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="690" y="230" width="130" height="60" as="geometry" />
+          <mxGeometry x="690" y="234" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-50" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-21" target="1WJIlf2FjZAEDyGZa3op-51" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="140.5" as="sourcePoint" />
-            <mxPoint x="1020" y="140.5" as="targetPoint" />
+            <mxPoint x="940" y="144.5" as="sourcePoint" />
+            <mxPoint x="1020" y="144.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;flowAnimation=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="1WJIlf2FjZAEDyGZa3op-51" target="1WJIlf2FjZAEDyGZa3op-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="260" as="targetPoint" />
+            <mxPoint x="1180" y="264" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1105" y="275" />
+              <mxPoint x="1105" y="279" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -122,23 +122,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-51" value="All other&amp;nbsp;&lt;div&gt;Branch&amp;nbsp;&lt;div&gt;Protection rules&amp;nbsp;&lt;/div&gt;&lt;div&gt;also satisfied?&lt;/div&gt;&lt;div&gt;(ex: approvals,&amp;nbsp;&lt;/div&gt;&lt;div&gt;no open comments,&amp;nbsp;&lt;/div&gt;&lt;div&gt;code owners&amp;nbsp;&lt;/div&gt;&lt;div&gt;etc)&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="1000" y="40.5" width="210" height="200" as="geometry" />
+          <mxGeometry x="1000" y="44.5" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-52" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1212" y="141" as="sourcePoint" />
-            <mxPoint x="1270" y="140.5" as="targetPoint" />
+            <mxPoint x="1212" y="145" as="sourcePoint" />
+            <mxPoint x="1270" y="144.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-53" value="&lt;b&gt;PR is ready to merge&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="1280" y="90.5" width="120" height="85" as="geometry" />
+          <mxGeometry x="1280" y="94.5" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-19" source="1WJIlf2FjZAEDyGZa3op-19" target="dNxyNK7c78bLwvsdeMH5-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1354" y="610" />
-              <mxPoint x="200" y="610" />
+              <mxPoint x="1354" y="600" />
+              <mxPoint x="200" y="600" />
               <mxPoint x="200" y="676" />
+              <mxPoint x="205" y="676" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -182,7 +183,7 @@
         <mxCell id="1WJIlf2FjZAEDyGZa3op-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;flowAnimation=1;" parent="dNxyNK7c78bLwvsdeMH5-19" source="1WJIlf2FjZAEDyGZa3op-54" target="1WJIlf2FjZAEDyGZa3op-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1754" y="410" />
+              <mxPoint x="1754" y="350" />
               <mxPoint x="1754" y="950" />
               <mxPoint x="105" y="950" />
               <mxPoint x="105" y="1095" />
