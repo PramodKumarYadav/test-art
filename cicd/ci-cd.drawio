@@ -65,13 +65,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-18" value="Ready to create PR?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="1054" y="105" width="140" height="150" as="geometry" />
+          <mxGeometry x="1044" y="45" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-19" value="&lt;b&gt;Create a PR&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="1274" y="137.5" width="120" height="85" as="geometry" />
+          <mxGeometry x="1264" y="77.5" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-54" value="&lt;b&gt;Merge PR&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="1534" y="137.5" width="120" height="85" as="geometry" />
+          <mxGeometry x="1524" y="77.5" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="CI" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="580" width="2730" height="320" as="geometry" />
