@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1242" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,12 +287,12 @@
             <mxPoint x="1446" y="209.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1WJIlf2FjZAEDyGZa3op-109" value="&lt;div&gt;✅ Auto Pull Image and Deploy Staging environment&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
-          <mxGeometry x="1675" y="170" width="161" height="75" as="geometry" />
+        <mxCell id="1WJIlf2FjZAEDyGZa3op-109" value="&lt;div&gt;✅ Auto Pull Image and Deploy Staging environment.&amp;nbsp;&lt;/div&gt;&lt;div&gt;**(some companies do this as a manual step)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
+          <mxGeometry x="1675" y="130" width="185" height="130" as="geometry" />
         </mxCell>
         <mxCell id="1WJIlf2FjZAEDyGZa3op-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1836" y="204.5" as="sourcePoint" />
+            <mxPoint x="1854" y="205" as="sourcePoint" />
             <mxPoint x="1916" y="204.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -469,7 +469,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1WJIlf2FjZAEDyGZa3op-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" target="1WJIlf2FjZAEDyGZa3op-18" edge="1" source="1WJIlf2FjZAEDyGZa3op-10">
+        <mxCell id="1WJIlf2FjZAEDyGZa3op-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="1WJIlf2FjZAEDyGZa3op-10" target="1WJIlf2FjZAEDyGZa3op-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1144" y="200" as="sourcePoint" />
             <Array as="points">
