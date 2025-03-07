@@ -232,9 +232,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5gXh-MUCfKoVI_QlQee-6" value="on push event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="H5gXh-MUCfKoVI_QlQee-1">
+        <mxCell id="H5gXh-MUCfKoVI_QlQee-6" value="&lt;b&gt;auto merges or dev clicks to merge&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="H5gXh-MUCfKoVI_QlQee-1">
           <mxGeometry x="0.3098" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-66" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H5gXh-MUCfKoVI_QlQee-28" value="&lt;b&gt;PR is merged to main branch&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=20;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
