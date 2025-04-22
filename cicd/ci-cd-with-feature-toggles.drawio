@@ -227,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLc7Wsw-ds0Ou4aP5otM-937" value="&lt;div&gt;Override stable test FE with resources from PR. Pointing to stable test BE environment.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" parent="yLc7Wsw-ds0Ou4aP5otM-49" vertex="1">
-          <mxGeometry x="772" y="360" width="228" height="100.5" as="geometry" />
+          <mxGeometry x="772" y="320" width="228" height="140.5" as="geometry" />
         </mxCell>
         <mxCell id="yLc7Wsw-ds0Ou4aP5otM-956" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.183;entryY=0.707;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" parent="yLc7Wsw-ds0Ou4aP5otM-49" source="yLc7Wsw-ds0Ou4aP5otM-944" target="yLc7Wsw-ds0Ou4aP5otM-907" edge="1">
           <mxGeometry relative="1" as="geometry">
