@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yLc7Wsw-ds0Ou4aP5otM-944" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;✅&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;Run &lt;b&gt;contract &lt;/b&gt;tests with changed PR code.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="yLc7Wsw-ds0Ou4aP5otM-49" vertex="1">
-          <mxGeometry x="783" y="520" width="517" height="95.75" as="geometry" />
+          <mxGeometry x="776.5" y="549" width="517" height="95.75" as="geometry" />
         </mxCell>
         <mxCell id="yLc7Wsw-ds0Ou4aP5otM-955" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="yLc7Wsw-ds0Ou4aP5otM-49" source="yLc7Wsw-ds0Ou4aP5otM-948" target="yLc7Wsw-ds0Ou4aP5otM-907" edge="1">
           <mxGeometry relative="1" as="geometry">
