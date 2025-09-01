@@ -731,7 +731,7 @@
         <mxCell id="NkMv9dLfKG8U7ninc3qO-216" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;YES&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="NkMv9dLfKG8U7ninc3qO-139" source="NkMv9dLfKG8U7ninc3qO-214" target="NkMv9dLfKG8U7ninc3qO-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NkMv9dLfKG8U7ninc3qO-214" value="&lt;b&gt;Is rollback to lost stable version possible without data loss?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="NkMv9dLfKG8U7ninc3qO-139">
+        <mxCell id="NkMv9dLfKG8U7ninc3qO-214" value="&lt;b&gt;Is rollback to last stable version possible without data loss?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="NkMv9dLfKG8U7ninc3qO-139">
           <mxGeometry x="1310.63" y="640" width="179.37" height="180" as="geometry" />
         </mxCell>
         <mxCell id="NkMv9dLfKG8U7ninc3qO-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="NkMv9dLfKG8U7ninc3qO-139" target="NkMv9dLfKG8U7ninc3qO-223">
