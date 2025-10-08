@@ -763,7 +763,7 @@
           <mxGeometry x="310" y="770" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NkMv9dLfKG8U7ninc3qO-121" value="&lt;div&gt;&lt;b&gt;Canary Release&lt;/b&gt; feature to a small group of real customers using targeting rules.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="NkMv9dLfKG8U7ninc3qO-139" vertex="1">
-          <mxGeometry x="310" y="130" width="267.49" height="110" as="geometry" />
+          <mxGeometry x="275.63" y="129" width="267.49" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NkMv9dLfKG8U7ninc3qO-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" parent="NkMv9dLfKG8U7ninc3qO-139" source="NkMv9dLfKG8U7ninc3qO-121" target="NkMv9dLfKG8U7ninc3qO-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
